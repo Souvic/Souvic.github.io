@@ -5,15 +5,15 @@ I am currently a part of [Complex Networks Research Group](http://www.cnergres.i
 
 ## Education 
 * **Indian Institute of Technology Jodhpur (Rajasthan) _2012-2016_**<br> 
-Bachelor of Technology in System Science,
+Bachelor of Technology in System Science<br>
 _GPI (8.58/10)_
 
 * **Higher Secondary Board _2011_**<br>
-Council of Higher Secondary Education,Odisha
+Council of Higher Secondary Education,Odisha<br>
 _Score (91.16 %) Sixth Topper in the State of Odisha_
 
 * **Secondary Board _2009_**<br>
-Board of Secondary Education,Odisha
+Board of Secondary Education,Odisha<br>
 _Score (91.5 %)_
 ```markdown
 ABCD

@@ -5,7 +5,8 @@ I am currently a part of [Complex Networks Research Group](http://www.cnergres.i
 
 # Education 
 ### Indian Institute of Technology Jodhpur (Rajasthan)
-'Bachelor of Technology in System Science,_GPI (8.58/10)_'
+Bachelor of Technology in System Science,
+_GPI (8.58/10)_
 
 ```markdown
 ABCD

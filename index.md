@@ -34,5 +34,5 @@ Secured 6th Rank in the State(Odisha) 12th Board Examination
 Green Belt Six SIgma _(License:CH042015125)_
 
 ## Contact 
-_Email_ patrogourab@gmail.com
-_Mobile Ph_ +91 8386837425
+_Email:_ patrogourab@gmail.com<br>
+_Mobile Ph:_ +91 8386837425

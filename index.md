@@ -1,11 +1,11 @@
-## About Me
+# About Me
 I am a Junior Research Fellow in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Dr.Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research interests are in Statistical Machine Learning,Complex Networks and their application to Social and Economic Networks.
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
-### Markdown
+# Education 
+## Indian Institute of Technology,Jodhpur
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 ```markdown
 ABCD
 ```

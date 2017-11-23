@@ -16,6 +16,10 @@ _Score (91.16 %) Sixth Topper in the State of Odisha_
 Board of Secondary Education,Odisha<br>
 _Score (91.5 %)_
 
+## Work Experience
+**Steelwedge Software Inc**_(Now a part of E2open Inc,Insight Ventures)_<br>
+Associate, Sales and Operations Planning Consulting and Implementation
+
 ```markdown
 ABCD
 ```

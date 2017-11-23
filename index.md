@@ -4,10 +4,12 @@ I am a Junior Research Fellow in the Department of [Computer Science and Enginee
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
 # Education 
-### Indian Institute of Technology Jodhpur (Rajasthan)
+#### Indian Institute of Technology Jodhpur (Rajasthan)
 Bachelor of Technology in System Science,
 _GPI (8.58/10)_
-
+#### Higher Secondary Board
+Council of Higher Secondary Education,Odisha
+_Percentage (91.16%)
 ```markdown
 ABCD
 ```

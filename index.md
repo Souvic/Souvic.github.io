@@ -28,3 +28,11 @@ One of the winners of "The Number Thing",a Data Science Competition by LatentVie
 Got Academic Distinction from The Director of IIT Jodhpur
 * **State Higher Secondary Board Topper _2011_**<br>
 Secured 6th Rank in the State(Odisha) 12th Board Examination
+
+## Certifications
+* **KPMG _2015_**<br>
+Green Belt Six SIgma _(License:CH042015125)_
+
+## Contact 
+_Email_ patrogourab@gmail.com
+_Mobile Ph_ +91 8386837425

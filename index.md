@@ -1,6 +1,5 @@
-## Gourab Kumar Patro
-
-You can use the [editor on GitHub](https://github.com/gourabkumarpatro/gourabkumarpatro.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+I am a Junior Research Fellow in the Department of [Computer Science and Engineering]() at [IIT Kharagpur](),India. I work under the supervision of [Prof. Dr.Niloy Ganguly](). My research interest areas are Statistical Machine Learning,
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

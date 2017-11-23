@@ -20,3 +20,11 @@ _Score (91.5 %)_
 **Steelwedge Software Inc _Jul'16-Aug'17_**<br>
 **_(Now a part of E2open Inc,Insight Ventures)_**<br>
 Associate, Sales and Operations Planning Consulting and Implementation
+
+## Awards and Achievements
+* **TNT-LatentView _2015_**<br>
+One of the winners of "The Number Thing",a Data Science Competition by LatentView
+* **Academic Distinction _2014_**<br>
+Got Academic Distinction from The Director of IIT Jodhpur
+* **State Higher Secondary Board Topper _2011_**<br>
+Secured 6th Rank in the State(Odisha) 12th Board Examination

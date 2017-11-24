@@ -2,7 +2,14 @@ name:         Gourab Kumar Patro
 tagline:      
 baseurl:      ""
 
-
+# Site settings
 theme: jekyll-theme-cayman
 title: Gourab Kumar Patro
 description: Junior Research Fellow<br>Dept of CSE,IIT Kharagpur
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2863a6
+  secondary: 259bc8
+  secondary-dark: "203634"
+  nav-bar: "868686"

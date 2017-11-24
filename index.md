@@ -19,7 +19,7 @@ _Score (91.5 %)_
 ## Work Experience
 **Steelwedge Software Inc _Jul'16-Aug'17_**<br>
 **_(Now a part of E2open Inc,Insight Ventures)_**<br>
-Associate, Sales and Operations Planning Consulting and Implementation
+Associate, S&OP Consulting and Implementation
 
 ## Awards and Achievements
 * **TNT-LatentView _2015_**<br>

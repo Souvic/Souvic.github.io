@@ -1,6 +1,6 @@
-name:         Gourab Kumar Patro
-tagline:      
-baseurl:      ""
+name: Gourab Kumar Patro
+tagline:    
+baseurl:"gourabkumarpatro.github.io"
 
 # Site settings
 theme: jekyll-theme-cayman

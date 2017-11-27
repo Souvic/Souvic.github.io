@@ -35,4 +35,4 @@ Green Belt Six SIgma _(License:CH042015125)_
 
 ## Contact 
 _Email:_ patrogourab@gmail.com<br>
-_Mobile Ph:_ +91 8386837425
+_Ph:_ +91 8386837425

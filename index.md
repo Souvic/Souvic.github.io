@@ -18,7 +18,7 @@ _Score (91.5 %)_
 
 ## Work Experience
 **Steelwedge Software Inc _Jul'16-Aug'17_**<br>
-**_(Now a part of E2open Inc,Insight Ventures)_**<br>
+**_(Now a part of E2open Inc,Insight Venture Partners)_**<br>
 Associate, S&OP Consulting and Implementation
 
 ## Awards and Achievements

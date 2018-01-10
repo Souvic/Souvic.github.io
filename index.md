@@ -17,10 +17,10 @@ Board of Secondary Education,Odisha<br>
 _Score (91.5 %)_
 
 ## Work Experience
-**IIT Kharagpur _Oct'17-Dec'17_**<br>
+* **IIT Kharagpur _Oct'17-Dec'17_**<br>
 Junior Research Fellow, Computer Science and Engineering
-_(Under Prof Niloy Ganguly)_
-**Steelwedge Software Inc _Jul'16-Aug'17_**<br>
+_(Under Prof Niloy Ganguly)_<br>
+* **Steelwedge Software Inc _Jul'16-Aug'17_**<br>
 **_(Now a part of E2open Inc,Insight Venture Partners)_**<br>
 Associate, S&OP Consulting and Implementation
 

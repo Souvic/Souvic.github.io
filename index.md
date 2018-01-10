@@ -1,5 +1,5 @@
 ## About Me
-I am a Junior Research Fellow in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Dr.Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research interests are in Statistical Machine Learning,Complex Networks and their application to Social and Economic Networks.
+I am a PhD Student in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Dr.Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research interests are in Statistical Machine Learning,Complex Networks and their application to Social and Economic Networks.
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
@@ -17,6 +17,9 @@ Board of Secondary Education,Odisha<br>
 _Score (91.5 %)_
 
 ## Work Experience
+**IIT Kharagpur _Oct'17-Dec'17_**<br>
+Junior Research Fellow, Computer Science and Engineering
+_(Under Prof Niloy Ganguly)_
 **Steelwedge Software Inc _Jul'16-Aug'17_**<br>
 **_(Now a part of E2open Inc,Insight Venture Partners)_**<br>
 Associate, S&OP Consulting and Implementation

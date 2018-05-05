@@ -1,5 +1,5 @@
 ## About Me
-I am a PhD Student in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research are is Machine Learning and my research interests fall in Bias & Fairness aspects of Machine Learning.
+I am a PhD Student in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research are is Machine Learning and my research interests fall in bias & fairness aspects of algorithmic predictive systems.
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 

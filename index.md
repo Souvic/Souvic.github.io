@@ -10,7 +10,7 @@ _GPI 8.58/10, **2nd Topper in the department**_
 
 * **Higher Secondary Board _2011_**<br>
 Council of Higher Secondary Education,Odisha<br>
-_Score 91.16 %, **Sixth Topper in the State of Odisha**_
+_Score 91.16 %, **6th Topper in the State of Odisha**_
 
 * **Secondary Board _2009_**<br>
 Board of Secondary Education,Odisha<br>

@@ -21,7 +21,7 @@ _Score (91.5 %)_
 Junior Research Fellow, Computer Science and Engineering
 _(Under Prof Niloy Ganguly)_<br>
 * **Steelwedge Software Inc _Jul'16-Aug'17_**<br>
-**_(Now a part of E2open Inc,Insight Venture Partners)_**<br>
+**_(Now a part of E2open LLC,Insight Venture Partners)_**<br>
 Associate, S&OP Consulting and Implementation
 
 ## Awards and Achievements

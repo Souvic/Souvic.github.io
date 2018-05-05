@@ -1,16 +1,16 @@
 ## About Me
-I am a PhD Student in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Dr.Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research interests are in Statistical Machine Learning,Complex Networks and their application to Social and Economic Networks.
+I am a PhD Student in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research interests are in Statistical Machine Learning,Complex Networks and their application to Social and Economic Networks.
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
 ## Education 
 * **Indian Institute of Technology Jodhpur ([IITJ](http://iitj.ac.in/)) _2012-2016_**<br> 
 Bachelor of Technology in System Science<br>
-_GPI (8.58/10)_
+_GPI 8.58/10, **2nd Topper in the department**_
 
 * **Higher Secondary Board _2011_**<br>
 Council of Higher Secondary Education,Odisha<br>
-_Score (91.16 %) Sixth Topper in the State of Odisha_
+_Score 91.16 %, **Sixth Topper in the State of Odisha**_
 
 * **Secondary Board _2009_**<br>
 Board of Secondary Education,Odisha<br>

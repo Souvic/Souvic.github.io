@@ -25,6 +25,8 @@ _(Under Prof Niloy Ganguly)_<br>
 Associate, S&OP Consulting and Implementation
 
 ## Awards and Achievements
+* **Finalist at Qualcomm Innovation Fellowship _2018_**<br>
+One of the finalists of QInF-India 2018
 * **TNT-LatentView _2015_**<br>
 One of the winners of "The Number Thing",a Data Science Competition by LatentView
 * **Academic Distinction _2014_**<br>

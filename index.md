@@ -3,7 +3,11 @@ I am a PhD Student in the Department of [Computer Science and Engineering](http:
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
 
-## Education 
+## Education
+* **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _From 2018_**<br>
+PhD Scholar, Department of Computer Science and Engineering<br>
+
+
 * **Indian Institute of Technology Jodhpur ([IITJ](http://iitj.ac.in/)) _2012-2016_**<br> 
 Bachelor of Technology in System Science<br>
 _GPI 8.58/10, **2nd Topper in the department**_

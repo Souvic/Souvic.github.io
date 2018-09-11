@@ -43,7 +43,7 @@ Secured 6th Rank in the State(Odisha) 12th Board Examination
 Green Belt Six SIgma _(License:CH042015125)_
 
 ## Significant Courseworks 
-Scalable Data Mining, Speech and Natural Language Processing, Information Retrieval, Deep Learning, Intelligent Systems, Complex Networks, Performance Modeling in Computer Networks, Pattern Recognition and Machine Learning, Large Scale Numerical Systems, Socio-Economic Networks and Business Dynamics, Financial Engineering, OR Optimization, Game Theory, Mathematical Macro-Economics, Embedded Systems, Dynamical Systems, Control Systems, Computer Organisation, Computer Networks, Compiler Design and Analysis, Algorithm Design and Analysis, Data Structure and Algorithms
+Scalable Data Mining, Speech and Natural Language Processing, Information Retrieval, Deep Learning, Intelligent Systems, Complex Networks, Performance Modeling in Computer Networks, Pattern Recognition and Machine Learning, Large Scale Numerical Systems, Socio-Economic Networks and Business Dynamics, Financial Engineering, OR Optimization, Game Theory, Mathematical Macro-Economics, Embedded Systems, Dynamical Systems, Control Systems, Computer Organisation, Computer Networks, Compiler Design and Analysis, Database Systems, Algorithm Design and Analysis, Data Structure and Algorithms
 
 ## Contact 
 _Email:_ patrogourab@gmail.com<br>

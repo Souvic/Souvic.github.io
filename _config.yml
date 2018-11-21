@@ -6,7 +6,7 @@ theme: jekyll-theme-cayman
 title: Gourab Kumar Patro
 description: PhD Scholar<br>Dept of CSE,IIT Kharagpur
 # avatar
-avatar: "http://cse.iitkgp.ac.in/~gourabkp/profile.jpg"
+#avatar: "http://cse.iitkgp.ac.in/~gourabkp/profile.jpg"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -15,4 +15,4 @@ color:
   secondary-dark: "203634"
   nav-bar: "868686"
 
-navbar-img: "http://cse.iitkgp.ac.in/~gourabkp/profile.jpg"
+#navbar-img: "http://cse.iitkgp.ac.in/~gourabkp/profile.jpg"

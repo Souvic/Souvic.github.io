@@ -1,4 +1,3 @@
-![profile](http://cse.iitkgp.ac.in/~gourabkp/profile.jpg){:class="img-responsive"}
 ## About Me
 I am a PhD Student in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research area is Machine Learning, and my research interests fall in bias & fairness aspects of AIs.
 

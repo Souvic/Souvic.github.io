@@ -5,8 +5,8 @@ I am currently a part of [Complex Networks Research Group](http://www.cnergres.i
 
 ## Publications
 * **Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**<br>
-To appear in ACM FAT* Conference, 2019, Atlanta, Georgia
-[PDF](http://cse.iitkgp.ac.in/~gourabkp/fat2019.pdf){% octicon file-pdf %}
+To appear in ACM FAT* Conference, 2019, Atlanta, Georgia<br>
+**[PDF]**(http://cse.iitkgp.ac.in/~gourabkp/fat2019.pdf)
 
 ## Education
 * **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _From 2018_**<br>

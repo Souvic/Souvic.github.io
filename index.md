@@ -56,4 +56,4 @@ _Email:_ patrogourab@gmail.com<br>
 _Ph:_ +91 8386837425
 
 
-https://docs.google.com/presentation/d/1EGSRIu4TWP0cKlUGPwbvJcs2GhH94mg4eZTetz2XLUY/edit?usp=sharing
+[NLP Term Project](https://docs.google.com/presentation/d/1EGSRIu4TWP0cKlUGPwbvJcs2GhH94mg4eZTetz2XLUY/edit?usp=sharing)

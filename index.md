@@ -2,7 +2,8 @@
 I am a PhD Student in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research area is Machine Learning, and my research interests fall in bias & fairness aspects of AIs.
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
-
+## CV
+[**here**](http://cse.iitkgp.ac.in/~gourabkp/cv2018.pdf)
 ## Publications
 * **Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**<br>
 To appear in ACM FAT* Conference, 2019, Atlanta, Georgia<br>

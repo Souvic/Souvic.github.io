@@ -1,18 +1,18 @@
-name: Gourab Kumar Patro
-tagline:    
+# Setup
+title:        Project or Site name
+tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      ""
+paginate:     1
+locale:       "en"
 
-# Site settings
-theme: jekyll-theme-cayman
-title: Gourab Kumar Patro
-description: PhD Scholar<br>Dept of CSE,IIT Kharagpur
-# avatar
-#avatar: "http://cse.iitkgp.ac.in/~gourabkp/profile.jpg"
+# About/contact
+author:
+  name:       Author name
+  url:        http://yourhomepage.com 
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 2863a6
-  secondary: 259bc8
-  secondary-dark: "203634"
-  nav-bar: "868686"
+# Gems
+gems:
+  - jekyll-paginate
 
-#navbar-img: "http://cse.iitkgp.ac.in/~gourabkp/profile.jpg"
+#Others
+markdown: kramdown

@@ -54,6 +54,3 @@ Scalable Data Mining, Speech and Natural Language Processing, Information Retrie
 ## Contact 
 _Email:_ patrogourab@gmail.com<br>
 _Ph:_ +91 8386837425
-{{ include.content 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-2435-6859" href="https://orcid.org/0000-0002-2435-6859" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-2435-6859</a></div>
-}}

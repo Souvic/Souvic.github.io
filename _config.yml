@@ -4,7 +4,7 @@ tagline:      PhD Scholar, CSE, IIT Kharagpur
 baseurl:      "https://gourabkumarpatro.github.io/"
 paginate:     1
 locale:       "en"
-
+google_analytics: UA-131017147-1
 # About/contact
 author:
   name:       Gourab Kumar Patro

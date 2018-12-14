@@ -1,14 +1,14 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        Gourab Kumar Patro
+tagline:      PhD Scholar, CSE, IIT Kharagpur
 baseurl:      ""
 paginate:     1
 locale:       "en"
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       Gourab Kumar Patro
+  url:        http://www.gourabkumarpatro.github.io 
 
 # Gems
 gems:

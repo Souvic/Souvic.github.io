@@ -8,6 +8,7 @@ I am currently a part of [Complex Networks Research Group](http://www.cnergres.i
 To appear in ACM FAT* Conference, 2019, Atlanta, Georgia<br>
 [**PDF**](http://cse.iitkgp.ac.in/~gourabkp/fat2019.pdf)
 [**arXiv**](https://arxiv.org/abs/1811.08690)
+[**Paper**](https://doi.org/10.1145/3287560.3287570)
 
 ## Education
 * **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _From 2018_**<br>

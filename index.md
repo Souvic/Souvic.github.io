@@ -4,8 +4,10 @@ I am a PhD Student in the Department of [Computer Science and Engineering](http:
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
 [**CV**](http://cse.iitkgp.ac.in/~gourabkp/cv2019.pdf)
 ## Publications
+* **Can Location-Based Searches Create Exposure Bias ?**<br>
+FATES in the Web 2019 co-located with The Web Conference 2019, San Francisco, USA
 * **Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**<br>
-To appear in ACM FAT* Conference, 2019, Atlanta, Georgia<br>
+ACM FAT* Conference, 2019, Atlanta, Georgia, USA<br>
 [**PDF**](http://cse.iitkgp.ac.in/~gourabkp/fat2019.pdf)
 [**arXiv**](https://arxiv.org/abs/1811.08690)
 [**Paper**](https://doi.org/10.1145/3287560.3287570)

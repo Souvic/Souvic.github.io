@@ -29,7 +29,10 @@ _Score 91.16 %, **6th Topper in the State of Odisha**_
 Board of Secondary Education,Odisha<br>
 _Score 91.5 %_
 
-## Work Experience
+## Experience
+* **Max Planck Institute for Software Systems (MPI-SWS), Saarbrucken, Germany**<br>
+Visiting Scholar
+_(Under Dr. Krishna Gummadi)_<br>
 * **IIT Kharagpur _Oct'17-Dec'17_**<br>
 Junior Research Fellow, Computer Science and Engineering
 _(Under Prof Niloy Ganguly)_<br>

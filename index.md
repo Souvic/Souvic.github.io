@@ -30,7 +30,7 @@ Board of Secondary Education,Odisha<br>
 _Score 91.5 %_
 
 ## Experience
-* **Max Planck Institute for Software Systems (MPI-SWS), Saarbrucken, Germany**<br>
+* **Max Planck Institute for Software Systems (MPI-SWS), Saarbrucken, Germany _Mar'19-May'19_**<br>
 Visiting Scholar
 _(Under Dr. Krishna Gummadi)_<br>
 * **IIT Kharagpur _Oct'17-Dec'17_**<br>

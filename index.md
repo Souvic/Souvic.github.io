@@ -32,10 +32,10 @@ _Score 91.5 %_
 ## Experience
 * **Max Planck Institute for Software Systems (MPI-SWS), Saarbrucken, Germany _Mar'19-May'19_**<br>
 Visiting Scholar
-_(Under Dr. Krishna Gummadi)_<br>
+_(Under Prof. Krishna Gummadi)_<br>
 * **IIT Kharagpur _Oct'17-Dec'17_**<br>
 Junior Research Fellow, Computer Science and Engineering
-_(Under Prof Niloy Ganguly)_<br>
+_(Under Prof. Niloy Ganguly)_<br>
 * **Steelwedge Software Inc _Jul'16-Aug'17_**<br>
 **_(Now a part of E2open LLC,Insight Venture Partners)_**<br>
 Associate, S&OP Consulting and Implementation

@@ -61,4 +61,6 @@ Scalable Data Mining, Speech and Natural Language Processing, Information Retrie
 _Email:_ patrogourab@gmail.com<br>
 _Ph:_ +91 8386837425
 
-[link](https://docs.google.com/presentation/d/1OnhRAaJZbDBqv1J3G3az4hr_gIA1mUlwz5URMeczMws/edit?usp=sharing)
+Reading Group'19 [link](https://docs.google.com/presentation/d/1OnhRAaJZbDBqv1J3G3az4hr_gIA1mUlwz5URMeczMws/edit?usp=sharing)<br>
+IR 18th July [link](https://docs.google.com/presentation/d/132OudCPjfCwqqvSygPO423EUvLwQwye0eDbqE6HS5MA/edit?usp=sharing)
+

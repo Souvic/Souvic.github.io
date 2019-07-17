@@ -5,7 +5,7 @@ I am currently a part of [Complex Networks Research Group](http://www.cnergres.i
 [**CV**](http://cse.iitkgp.ac.in/~gourabkp/cv2019.pdf)
 ## Publications
 * **Can Location-Based Searches Create Exposure Bias ?**<br>
-FATES in the Web 2019 co-located with The Web Conference 2019, San Francisco, USA
+FATES in the Web 2019 co-located with The Web Conference 2019 (WWW), San Francisco, USA
 * **Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**<br>
 ACM FAT* Conference, 2019, Atlanta, Georgia, USA<br>
 [**PDF**](http://cse.iitkgp.ac.in/~gourabkp/fat2019.pdf)

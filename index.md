@@ -61,7 +61,7 @@ Scalable Data Mining, Speech and Natural Language Processing, Information Retrie
 _Email:_ patrogourab@gmail.com<br>
 _Ph:_ +91 8386837425
 
-## Slides of Some of My Presentations
+## My Presentation Slides
 * [18th July 2019](https://docs.google.com/presentation/d/132OudCPjfCwqqvSygPO423EUvLwQwye0eDbqE6HS5MA/edit?usp=sharing), Information Retrieval Class, IIT Kharagpur
 * [4th July 2019](https://docs.google.com/presentation/d/1OnhRAaJZbDBqv1J3G3az4hr_gIA1mUlwz5URMeczMws/edit?usp=sharing), CNeRG Reading Group<br>
 "Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search" by Geyik et al. in KDD 2019

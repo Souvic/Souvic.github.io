@@ -61,8 +61,10 @@ Scalable Data Mining, Speech and Natural Language Processing, Information Retrie
 _Email:_ patrogourab@gmail.com<br>
 _Ph:_ +91 8386837425
 
-## Some of Presentation Slides
-* Reading Group'19 [link](https://docs.google.com/presentation/d/1OnhRAaJZbDBqv1J3G3az4hr_gIA1mUlwz5URMeczMws/edit?usp=sharing)<br>
-"Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search" by Geyik et al. KDD 2019
-* Information Retrieval 18th July'19 [link](https://docs.google.com/presentation/d/132OudCPjfCwqqvSygPO423EUvLwQwye0eDbqE6HS5MA/edit?usp=sharing)
+## Some of My Presentation Slides
+* Reading Group 12th July 2019 [link](https://docs.google.com/presentation/d/1vtUDyxgxqJA-SULhaIv84_28DLbmTqlMFvJJW7ZGGiQ/edit?usp=sharing)<br>
+"Unlearn What You Have Learned: Adaptive Crowd Teaching with Exponentially Decayed Memory Learners" by Zhou et al. in KDD 2018
+* Reading Group 4th July 2019 [link](https://docs.google.com/presentation/d/1OnhRAaJZbDBqv1J3G3az4hr_gIA1mUlwz5URMeczMws/edit?usp=sharing)<br>
+"Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search" by Geyik et al. in KDD 2019
+* Information Retrieval 18th July 2019 [link](https://docs.google.com/presentation/d/132OudCPjfCwqqvSygPO423EUvLwQwye0eDbqE6HS5MA/edit?usp=sharing)
 

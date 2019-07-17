@@ -66,9 +66,9 @@ _Ph:_ +91 8386837425
 "Recommendation Independence" by Kamishima et al. in FAT* 2018
 * [12th July 2018](https://docs.google.com/presentation/d/1vtUDyxgxqJA-SULhaIv84_28DLbmTqlMFvJJW7ZGGiQ/edit?usp=sharing), CNeRG Reading Group<br>
 "Unlearn What You Have Learned: Adaptive Crowd Teaching with Exponentially Decayed Memory Learners" by Zhou et al. in KDD 2018
-* [2nd December 2018](https://docs.google.com/presentation/d/1OOhUtVN_FJYedQpEfLa_yOhBRE-z77O_Qx9hyi9TLXM/edit?usp=sharing), CNeRG Retreat 2018<br>
+* [2nd December 2018](https://docs.google.com/presentation/d/1OOhUtVN_FJYedQpEfLa_yOhBRE-z77O_Qx9hyi9TLXM/edit?usp=sharing), CNeRG Retreat 2018, Chandipur, Odisha<br>
 "Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations" in FAT* 2019
 * [4th July 2019](https://docs.google.com/presentation/d/1OnhRAaJZbDBqv1J3G3az4hr_gIA1mUlwz5URMeczMws/edit?usp=sharing), CNeRG Reading Group<br>
 "Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search" by Geyik et al. in KDD 2019
-* [18th July 2019](https://docs.google.com/presentation/d/132OudCPjfCwqqvSygPO423EUvLwQwye0eDbqE6HS5MA/edit?usp=sharing)-Information Retrieval Class
+* [18th July 2019](https://docs.google.com/presentation/d/132OudCPjfCwqqvSygPO423EUvLwQwye0eDbqE6HS5MA/edit?usp=sharing), Information Retrieval Class, IIT Kharagpur
 

@@ -27,7 +27,7 @@ The dataset contains the following
   3. "output.txt": List of relevant document for each query or the true answers for each of the queries<br>
 Task: For each query find the relevant documents out of all the 5800 documents.
 * [Codes](https://github.com/gourabkumarpatro/RelevantDocumentSearch-GREP-vs-INDEX-vs-PYLUCENE-)<br>
-The codes contain the following
+This contains the following
   1. "grep_code.py": Finds the relevant documents using "grep" command
   2. "nltk_index_code.py": Creates a simple inverted index and then uses it to finds relevant docs for each query
   3. "pylucene_code.py": Creates a more sophisticated form of inverted positional index and then uses it to finds relevant docs for each query<br>

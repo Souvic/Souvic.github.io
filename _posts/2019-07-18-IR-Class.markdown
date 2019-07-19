@@ -2,17 +2,17 @@
 layout: default
 title:  "Introduction to Information Retrieval"
 date:   2019-07-18 19:50:00
-categories: main
+categories: Teaching
 ---
 
 Today's class included discussions on the following
-What is IR?, 
-Why is it needed?, 
-Document Retrieval, 
-Indexing for Document Retrieval,
-Examples (discussed in class, not present in slides),
-Tools for Document Retrieval,
-Evaluation metrics.
+* What is IR?
+* Why is it needed? 
+* Document Retrieval
+* Indexing for Document Retrieval
+* Examples (discussed in class, not present in slides)
+* Tools for Document Retrieval
+* Evaluation metrics
 
 The slides can be found in the link below
 [slides](https://docs.google.com/presentation/d/132OudCPjfCwqqvSygPO423EUvLwQwye0eDbqE6HS5MA/edit?usp=sharing)

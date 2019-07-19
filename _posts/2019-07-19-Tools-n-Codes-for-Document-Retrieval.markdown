@@ -4,7 +4,7 @@ title:  "Tools and Codes for Document Retrieval"
 date:   2019-07-19 17:15:00
 categories: teaching
 ---
-### Date: 18th July 2019
+### Date: 19th July 2019
 ### Course: INFORMATION RETRIEVAL 
 
 Today's class included discussions on the following

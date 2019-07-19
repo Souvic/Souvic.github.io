@@ -31,7 +31,7 @@ The codes contain the following
   1. "grep_code.py": Finds the relevant documents using "grep" command
   2. "nltk_index_code.py": Creates a simple inverted index and then uses it to finds relevant docs for each query
   3. "pylucene_code.py": Creates a more sophisticated form of inverted positional index and then uses it to finds relevant docs for each query
-(Don't forget to extract all the files from the rar folder. All these implementations prints the average recall and average time required for each query. All these codes can be executed on a system with 4GB_RAM-QuadCore or more ,and their performances can compared as done in class.)
+(Don't forget to extract all the files from the rar folder. All these implementations prints the average recall and average time required for each query. All these codes can be executed on a system with atleast 2GB_RAM-n-DualCore ,and their performances can compared as done in class.)
   4. "Python_Lucene_Installation_Steps.txt" : Steps to install lucene
 
 

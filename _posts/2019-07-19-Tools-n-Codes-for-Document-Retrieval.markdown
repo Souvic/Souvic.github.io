@@ -14,7 +14,7 @@ Today's class included discussions on the following
 * Inverted index method codes
 * Inverted positional index using lucene
 * Using "grep", lucene to search queries in small set of documents
-* Running "grep", inverted index, and lucene bigger datasets
+* Running "grep", inverted index, and lucene on a bigger dataset
 * Analysis of the Performance (Recall, and Time to search)
 
 You can find the materials below.

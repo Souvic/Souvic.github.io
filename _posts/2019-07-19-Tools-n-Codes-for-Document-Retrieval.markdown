@@ -20,10 +20,10 @@ Today's class included discussions on the following
 You can find the materials below.
 * [Dataset](https://drive.google.com/drive/folders/1pogGFFrn_WjIKn5uTKQ_mw4N4CIhalQF?usp=sharing)<br>
 The dataset contains the following 
-1. "query.txt": List of <query_ids, queries>
-2. "alldocs.rar": Around 5800 text documents
-3. "output.txt": List of relevant document for each query or the true answers for each of the queries 
+  1. "query.txt": List of <query_ids, queries>
+  2. "alldocs.rar": Around 5800 text documents
+  3. "output.txt": List of relevant document for each query or the true answers for each of the queries 
 Task: For each query find the relevant documents out of all the 5800 documents
 * [Codes](https://github.com/gourabkumarpatro/RelevantDocumentSearch-GREP-vs-INDEX-vs-PYLUCENE-)
 The codes contain the following
-1. "grep_code.py": Finds the re
+  1. "grep_code.py": Finds the re

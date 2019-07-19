@@ -18,6 +18,8 @@ Today's class included discussions on the following
 * Analysis of the Performance (Recall, and Time to search)
 
 You can find the materials below.
+* [grep manual](http://man7.org/linux/man-pages/man1/grep.1.html)<br>
+Here a manual for "grep" command can be found which includes different options, patterns for different requirements. 
 * [Dataset](https://drive.google.com/drive/folders/1pogGFFrn_WjIKn5uTKQ_mw4N4CIhalQF?usp=sharing)<br>
 The dataset contains the following 
   1. "query.txt": List of <query_ids, queries>
@@ -29,6 +31,7 @@ The codes contain the following
   1. "grep_code.py": Finds the relevant documents using "grep" command
   2. "nltk_index_code.py": Creates a simple inverted index and then uses it to finds relevant docs for each query
   3. "pylucene_code.py": Creates a more sophisticated form of inverted positional index and then uses it to finds relevant docs for each query
-(Don't forget to extract all the files from the rar folder. All these implementations prints the average recall and average time required for each query. You can run all of them and compare their performances as we did in class.)
+(Don't forget to extract all the files from the rar folder. All these implementations prints the average recall and average time required for each query. All these codes can be executed on a system with 4GB_RAM-QuadCore or more ,and their performances can compared as done in class.)
   4. "Python_Lucene_Installation_Steps.txt" : Steps to install lucene
+
 

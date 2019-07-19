@@ -18,7 +18,7 @@ Today's class included discussions on the following
 * Analysis of the Performance (Recall, and Time to search)
 
 You can find the materials below.
-* [grep manual](http://man7.org/linux/man-pages/man1/grep.1.html)<br>
+* ["grep" manual](http://man7.org/linux/man-pages/man1/grep.1.html)<br>
 Here a manual for "grep" command can be found which includes different options, patterns for different requirements. 
 * [Dataset](https://drive.google.com/drive/folders/1pogGFFrn_WjIKn5uTKQ_mw4N4CIhalQF?usp=sharing)<br>
 The dataset contains the following 

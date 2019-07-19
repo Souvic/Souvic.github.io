@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Tools and Codes for DOcument Retrieval"
+title:  "Tools and Codes for Document Retrieval"
 date:   2019-07-19 17:15:00
 categories: teaching
 ---
@@ -24,6 +24,11 @@ The dataset contains the following
   2. "alldocs.rar": Around 5800 text documents
   3. "output.txt": List of relevant document for each query or the true answers for each of the queries 
 Task: For each query find the relevant documents out of all the 5800 documents
-* [Codes](https://github.com/gourabkumarpatro/RelevantDocumentSearch-GREP-vs-INDEX-vs-PYLUCENE-)
+* [Codes](https://github.com/gourabkumarpatro/RelevantDocumentSearch-GREP-vs-INDEX-vs-PYLUCENE-)<br>
 The codes contain the following
-  1. "grep_code.py": Finds the re
+  1. "grep_code.py": Finds the relevant documents using "grep" command
+  2. "nltk_index_code.py": Creates a simple inverted index and then uses it to finds relevant docs for each query
+  3. "pylucene_code.py": Creates a more sophisticated form of inverted positional index and then uses it to finds relevant docs for each query
+(Don't forget to extract all the files from the rar folder. All these implementations prints the average recall and average time required for each query. You can run all of them and compare their performances as we did in class.)
+  4. "Python_Lucene_Installation_Steps.txt" : Steps to install lucene
+

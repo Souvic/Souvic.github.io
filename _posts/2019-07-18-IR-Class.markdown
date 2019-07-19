@@ -2,7 +2,7 @@
 layout: default
 title:  "Introduction to Information Retrieval"
 date:   2019-07-18 19:50:00
-categories: Teaching
+categories: teaching
 ---
 
 Today's class included discussions on the following

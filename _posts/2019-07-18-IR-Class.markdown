@@ -4,8 +4,8 @@ title:  "Introduction to Information Retrieval"
 date:   2019-07-18 19:50:00
 categories: teaching
 ---
-# Date: 18th July 2019 
-# Course: INFORMATION RETRIEVAL
+### Date: 18th July 2019 
+### Course: INFORMATION RETRIEVAL
 Today's class included discussions on the following
 * What is IR?
 * Why is it needed? 

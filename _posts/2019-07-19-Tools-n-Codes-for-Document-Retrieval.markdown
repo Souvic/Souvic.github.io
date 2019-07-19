@@ -24,8 +24,7 @@ Here a manual for "grep" command can be found which includes different options, 
 The dataset contains the following 
   1. "query.txt": List of <query_ids, queries>
   2. "alldocs.rar": Around 5800 text documents
-  3. "output.txt": List of relevant document for each query or the true answers for each of the queries 
-
+  3. "output.txt": List of relevant document for each query or the true answers for each of the queries<br>
 Task: For each query find the relevant documents out of all the 5800 documents
 * [Codes](https://github.com/gourabkumarpatro/RelevantDocumentSearch-GREP-vs-INDEX-vs-PYLUCENE-)<br>
 The codes contain the following

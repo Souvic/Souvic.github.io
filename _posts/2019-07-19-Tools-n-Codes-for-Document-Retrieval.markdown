@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Tools and Codes for "
+title:  "Tools and Codes for DOcument Retrieval"
 date:   2019-07-19 17:15:00
 categories: teaching
 ---

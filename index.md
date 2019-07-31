@@ -2,7 +2,7 @@
 I am a PhD Student in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research area is Machine Learning, and my research interests fall in bias & fairness aspects of AIs.
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
-[**CV**](http://cse.iitkgp.ac.in/~gourabkp/cv2019.pdf)
+[**CV**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1LhtRhaM6zZGlXgNac/view?usp=sharing)
 ## Publications
 * **Can Location-Based Searches Create Exposure Bias ?**<br>
 FATES in the Web 2019 co-located with The Web Conference 2019 (WWW), San Francisco, USA

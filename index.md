@@ -20,7 +20,7 @@ PhD Scholar, Department of Computer Science and Engineering<br>
 Graduate (PhD) Student, Department of Computer Science and Engineering<br>
 
 * **Indian Institute of Technology Jodhpur ([IITJ](http://iitj.ac.in/)) _2012-2016_**<br> 
-Bachelor of Technology in System Science<br>
+Bachelor of Technology in System Science - Computer Science Minor Option<br>
 _GPI 8.58/10, **2nd Topper in the department**_
 
 * **Higher Secondary Board _2011_**<br>

@@ -52,7 +52,7 @@ One of the winners of "The Number Thing",a Data Science Competition by LatentVie
 * **Academic Distinction _2014_**<br>
 Got Academic Distinction from The Director of IIT Jodhpur
 * **State Higher Secondary Board Topper _2011_**<br>
-Secured 6th Rank in the State(Odisha) 12th Board Examination
+Secured 6th Rank in the State (Odisha) 12th Board Examination
 
 ## My Presentation Slides
 * [18th July 2019](https://docs.google.com/presentation/d/132OudCPjfCwqqvSygPO423EUvLwQwye0eDbqE6HS5MA/edit?usp=sharing), Information Retrieval Class, IIT Kharagpur

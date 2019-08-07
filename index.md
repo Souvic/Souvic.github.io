@@ -1,5 +1,5 @@
 ## About Me
-I am a PhD Student in the Department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research area is Machine Learning, and my research interests fall in bias & fairness aspects of AIs.
+I am a PhD scholar in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research area is Machine Learning, and my research interests fall in bias & fairness aspects of AIs.
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
 [**CV**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1LhtRhaM6zZGlXgNac/view?usp=sharing)
@@ -13,9 +13,11 @@ ACM FAT* Conference, 2019, Atlanta, Georgia, USA<br>
 [**Paper**](https://doi.org/10.1145/3287560.3287570)
 
 ## Education
-* **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _From 2018_**<br>
+* **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _From 2019_**<br>
 PhD Scholar, Department of Computer Science and Engineering<br>
 
+* **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _2018-19_**<br>
+Graduate(PhD) Student, Department of Computer Science and Engineering<br>
 
 * **Indian Institute of Technology Jodhpur ([IITJ](http://iitj.ac.in/)) _2012-2016_**<br> 
 Bachelor of Technology in System Science<br>

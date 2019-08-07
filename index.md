@@ -17,7 +17,7 @@ ACM FAT* Conference, 2019, Atlanta, Georgia, USA<br>
 PhD Scholar, Department of Computer Science and Engineering<br>
 
 * **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _2018-19_**<br>
-Graduate(PhD) Student, Department of Computer Science and Engineering<br>
+Graduate (PhD) Student, Department of Computer Science and Engineering<br>
 
 * **Indian Institute of Technology Jodhpur ([IITJ](http://iitj.ac.in/)) _2012-2016_**<br> 
 Bachelor of Technology in System Science<br>

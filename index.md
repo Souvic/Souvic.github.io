@@ -43,6 +43,8 @@ _(Under Prof. Niloy Ganguly)_<br>
 Associate, S&OP Consulting and Implementation
 
 ## Awards and Achievements
+* **TCS Research Fellowship _2019_**<br>
+TCS Research Fellowship Program for Computer Science Research
 * **Finalist at Qualcomm Innovation Fellowship _2018_**<br>
 One of the finalists of QInF-India 2018
 * **TNT-LatentView _2015_**<br>

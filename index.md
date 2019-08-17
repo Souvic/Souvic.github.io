@@ -3,6 +3,7 @@ I am a PhD scholar in the department of [Computer Science and Engineering](http:
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
 Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1LhtRhaM6zZGlXgNac/view?usp=sharing).
+
 ## Publications
 * **Can Location-Based Searches Create Exposure Bias ?**<br>
 FATES in the Web 2019 co-located with The Web Conference 2019 (WWW), San Francisco, USA

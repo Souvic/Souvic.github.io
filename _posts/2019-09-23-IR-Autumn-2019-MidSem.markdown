@@ -5,7 +5,7 @@ date:   2019-09-23 21:50:00
 categories: teaching
 ---
 
-**Date: 23$^\text{rd}$ Sept 2019** <br>
+**Date: 23rd Sept 2019** <br>
 **Course: INFORMATION RETRIEVAL**
 
 Please find the question paper and the solutions I made for the exam. <br>

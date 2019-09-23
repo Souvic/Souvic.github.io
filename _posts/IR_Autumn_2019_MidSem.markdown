@@ -1,0 +1,10 @@
+---
+layout: default
+title:  "Information Retrieval Autumn 2019, Mid-Semester Exam"
+date:   2019-09-23 21:50:00
+categories: teaching
+---
+
+Please find the question paper and the solutions I made for the exam.
+[Question Paper]: https://drive.google.com/file/d/1k4SzAU_rpM9rR6JUUZTRlUM19Nd17L46/view?usp=sharing
+[Answers]:  https://drive.google.com/file/d/1i5enWBjGvY_B37oO1DKeryfo-G_zuAKs/view?usp=sharing

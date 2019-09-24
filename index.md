@@ -5,6 +5,8 @@ I am currently a part of [Complex Networks Research Group](http://www.cnergres.i
 Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1LhtRhaM6zZGlXgNac/view?usp=sharing).
 
 ## Publications
+* **Incremental Fairness in Two-Sided Market Platforms: On Updating Recommendations Fairly**<br>
+[**arXiv**](https://arxiv.org/abs/1909.10005)
 * **Can Location-Based Searches Create Exposure Bias ?**<br>
 FATES in the Web 2019 co-located with The Web Conference 2019 (WWW), San Francisco, USA
 * **Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**<br>

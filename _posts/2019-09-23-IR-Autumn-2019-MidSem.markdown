@@ -8,6 +8,6 @@ categories: teaching
 **Date: 23rd Sept 2019** <br>
 **Course: INFORMATION RETRIEVAL**
 
-Please find the question paper prepared for the exam and also the solutions. <br>
+Please find the question paper prepared for the mid-sem exam and also the solutions. <br>
 [Question Paper](https://drive.google.com/file/d/1k4SzAU_rpM9rR6JUUZTRlUM19Nd17L46/view?usp=sharing) <br>
 [Answers](https://drive.google.com/file/d/1i5enWBjGvY_B37oO1DKeryfo-G_zuAKs/view?usp=sharing)

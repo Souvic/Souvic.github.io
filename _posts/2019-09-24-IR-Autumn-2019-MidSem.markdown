@@ -1,11 +1,11 @@
 ---
 layout: default
 title:  "Information Retrieval Autumn 2019, Mid-Semester Exam"
-date:   2019-09-23 21:50:00
+date:   2019-09-24 21:50:00
 categories: teaching
 ---
 
-**Date: 23rd Sept 2019** <br>
+**Date: 24th Sept 2019** <br>
 **Course: INFORMATION RETRIEVAL**
 
 Please find the question paper prepared for the mid-sem exam and also the solutions. <br>

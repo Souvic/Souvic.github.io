@@ -1,14 +1,15 @@
 ## About Me
-I am a PhD scholar in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research area is Information Retrieval and Data Mining, and my research interests fall in bias & fairness aspects of AIs.
+I am a PhD scholar (TCS research fellow) in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur](http://www.iitkgp.ac.in/),India. I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research area is Information Retrieval and Data Mining, and my research interests fall in bias & fairness aspects of AIs.
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
 Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1LhtRhaM6zZGlXgNac/view?usp=sharing).
 
 ## Publications
 * **Incremental Fairness in Two-Sided Market Platforms: On Updating Recommendations Fairly**<br>
+Short version accepted in HCML workshop, at NeurIPS 2019, Vancouver, Canada.
 [**arXiv**](https://arxiv.org/abs/1909.10005)
 * **Can Location-Based Searches Create Exposure Bias ?**<br>
-FATES in the Web 2019 co-located with The Web Conference 2019 (WWW), San Francisco, USA
+FATES on the Web 2019 co-located with The Web Conference 2019 (WWW), San Francisco, USA
 * **Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**<br>
 ACM FAT* Conference, 2019, Atlanta, Georgia, USA<br>
 [**PDF**](http://cse.iitkgp.ac.in/~gourabkp/fat2019.pdf)

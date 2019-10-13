@@ -6,7 +6,7 @@ Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1Lht
 
 ## Publications
 * **Incremental Fairness in Two-Sided Market Platforms: On Updating Recommendations Fairly**<br>
-Short version accepted in HCML workshop, at NeurIPS 2019, Vancouver, Canada.<br>
+Short version accepted in HCML workshop, at NeurIPS 2019, Vancouver, Canada<br>
 [**arXiv**](https://arxiv.org/abs/1909.10005)
 * **Can Location-Based Searches Create Exposure Bias ?**<br>
 FATES on the Web 2019 co-located with The Web Conference 2019 (WWW), San Francisco, USA
@@ -28,11 +28,11 @@ Bachelor of Technology in System Science - Computer Science Minor Option<br>
 _GPI 8.58/10, **2nd Topper in the department**_
 
 * **Higher Secondary Board _2011_**<br>
-Council of Higher Secondary Education,Odisha<br>
+Council of Higher Secondary Education, Odisha<br>
 _Score 91.16 %, **6th Topper in the State of Odisha**_
 
 * **Secondary Board _2009_**<br>
-Board of Secondary Education,Odisha<br>
+Board of Secondary Education, Odisha<br>
 _Score 91.5 %_
 
 ## Experience
@@ -52,7 +52,7 @@ TCS Research Fellowship Program for Computer Science Research
 * **Finalist at Qualcomm Innovation Fellowship _2018_**<br>
 One of the finalists of QInF-India 2018
 * **TNT-LatentView _2015_**<br>
-One of the winners of "The Number Thing",a Data Science Competition by LatentView
+One of the winners of "The Number Thing", a Data Science Competition by LatentView
 * **Academic Distinction _2014_**<br>
 Got Academic Distinction from The Director of IIT Jodhpur
 * **State Higher Secondary Board Topper _2011_**<br>

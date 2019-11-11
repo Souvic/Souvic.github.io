@@ -19,7 +19,7 @@ In proceedings of the **ACM FAT*** Conference, 2019, Atlanta, Georgia, USA<br>
 
 ## Education
 * **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _From 2019_**<br>
-PhD Scholar, Department of Computer Science and Engineering<br>
+PhD Scholar (TCS Research Fellow), Department of Computer Science and Engineering<br>
 
 * **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _2018-19_**<br>
 Graduate (PhD) Student, Department of Computer Science and Engineering<br>

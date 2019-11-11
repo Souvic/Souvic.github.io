@@ -12,7 +12,7 @@ Accepted to appear in **AAAI-2020**, New York, USA<br>
 * **Can Location-Based Searches Create Exposure Bias ?**<br>
 FATES on the Web 2019 workshop, The Web Conference 2019 **(WWW)**, San Francisco, USA
 * **Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**<br>
-**ACM FAT*** Conference, 2019, Atlanta, Georgia, USA<br>
+In proceedings of the **ACM FAT*** Conference, 2019, Atlanta, Georgia, USA<br>
 [**PDF**](http://cse.iitkgp.ac.in/~gourabkp/fat2019.pdf)
 [**arXiv**](https://arxiv.org/abs/1811.08690)
 [**Paper**](https://doi.org/10.1145/3287560.3287570)

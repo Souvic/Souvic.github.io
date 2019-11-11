@@ -6,7 +6,8 @@ Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1Lht
 
 ## Publications
 * **Incremental Fairness in Two-Sided Market Platforms: On Updating Recommendations Fairly**<br>
-Short version accepted in HCML workshop, at NeurIPS 2019, Vancouver, Canada<br>
+Accepted to appear in AAAI-2020, New York, USA
+(Short version accepted in HCML workshop, at NeurIPS 2019, Vancouver, Canada)<br>
 [**arXiv**](https://arxiv.org/abs/1909.10005)
 * **Can Location-Based Searches Create Exposure Bias ?**<br>
 FATES on the Web 2019 co-located with The Web Conference 2019 (WWW), San Francisco, USA

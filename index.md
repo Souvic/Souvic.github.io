@@ -6,13 +6,13 @@ Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1Lht
 
 ## Publications
 * **Incremental Fairness in Two-Sided Market Platforms: On Updating Recommendations Fairly**<br>
-Accepted to appear in AAAI-2020, New York, USA<br>
+Accepted to appear in **AAAI-2020**, New York, USA<br>
 (Short version accepted in HCML workshop, at NeurIPS 2019, Vancouver, Canada)<br>
 [**arXiv**](https://arxiv.org/abs/1909.10005)
 * **Can Location-Based Searches Create Exposure Bias ?**<br>
-FATES on the Web 2019 co-located with The Web Conference 2019 (WWW), San Francisco, USA
+FATES on the Web 2019 workshop, The Web Conference 2019 **(WWW)**, San Francisco, USA
 * **Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**<br>
-ACM FAT* Conference, 2019, Atlanta, Georgia, USA<br>
+**ACM FAT*** Conference, 2019, Atlanta, Georgia, USA<br>
 [**PDF**](http://cse.iitkgp.ac.in/~gourabkp/fat2019.pdf)
 [**arXiv**](https://arxiv.org/abs/1811.08690)
 [**Paper**](https://doi.org/10.1145/3287560.3287570)

@@ -13,7 +13,7 @@ Accepted to appear in **AAAI-2020** (Oral Presentation), New York, USA<br>
 FATES on the Web 2019 workshop, The Web Conference 2019 **(WWW)**, San Francisco, USA
 * [**Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**](https://arxiv.org/abs/1811.08690)<br>
 _Abhijnan Chakraborty, **Gourab K Patro**, Niloy Ganguly, Krishna P. Gummadi, Patrick Loiseau_<br>
-In proceedings of the **ACM FAT*** (Oral Presentation), 2019, Atlanta, Georgia, USA<br>
+In proceedings of **ACM FAT*** (Oral Presentation), 2019, Atlanta, Georgia, USA<br>
 
 ## Education
 * **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _From 2019_**<br>

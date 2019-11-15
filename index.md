@@ -14,7 +14,7 @@ Accepted to appear in **AAAI-2020** (Oral Presentation), New York, USA<br>
 * [**Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**](https://arxiv.org/abs/1811.08690)<br>
 _Abhijnan Chakraborty, **Gourab K Patro**, Niloy Ganguly, Krishna P. Gummadi, Patrick Loiseau_<br>
 In proceedings of **ACM FAT*-2019** (Oral Presentation), Atlanta, Georgia, USA<br>
-(DOI: https://doi.org/10.1145/3287560.3287570)
+(DOI(https://doi.org/10.1145/3287560.3287570))
 
 ## Education
 * **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _From 2019_**<br>

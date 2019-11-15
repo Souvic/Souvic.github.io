@@ -6,12 +6,14 @@ Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1Lht
 
 ## Publications
 * **Incremental Fairness in Two-Sided Market Platforms: On Updating Recommendations Fairly**<br>
+_**Gourab K Patro**, Abhijnan Chakraborty, Niloy Ganguly, Krishna P. Gummadi_ <br>
 Accepted to appear in **AAAI-2020** (Oral Presentation), New York, USA<br>
 (Short version accepted in HCML workshop, at NeurIPS 2019, Vancouver, Canada)<br>
 [**arXiv**](https://arxiv.org/abs/1909.10005)
 * **Can Location-Based Searches Create Exposure Bias ?**<br>
 FATES on the Web 2019 workshop, The Web Conference 2019 **(WWW)**, San Francisco, USA
 * **Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**<br>
+_Abhijnan Chakraborty, **Gourab K Patro**, Niloy Ganguly, Krishna P. Gummadi, Patrick Loiseau_<br>
 In proceedings of the **ACM FAT*** Conference, 2019, Atlanta, Georgia, USA<br>
 [**PDF**](http://cse.iitkgp.ac.in/~gourabkp/fat2019.pdf)
 [**arXiv**](https://arxiv.org/abs/1811.08690)

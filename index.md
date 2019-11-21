@@ -5,7 +5,7 @@ I am currently a part of [Complex Networks Research Group](http://www.cnergres.i
 Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1LhtRhaM6zZGlXgNac/view?usp=sharing).
 
 ## Publications
-* [**Incremental Fairness in Two-Sided Market Platforms: On Updating Recommendations Fairly**](https://arxiv.org/abs/1909.10005)<br>
+* [**Incremental Fairness in Two-Sided Market Platforms: On Smoothly Updating Recommendations**](https://arxiv.org/abs/1909.10005)<br>
 _**Gourab K Patro**, Abhijnan Chakraborty, Niloy Ganguly, Krishna P. Gummadi_ <br>
 Accepted to appear in **AAAI-2020** (Oral Presentation), New York, USA<br>
 (Short version was accepted in HCML workshop at NeurIPS 2019, Vancouver, Canada)

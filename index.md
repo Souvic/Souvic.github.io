@@ -46,7 +46,7 @@ _(Under Prof. Niloy Ganguly)_<br>
 **_(Now a part of E2open LLC,Insight Venture Partners)_**<br>
 Associate, S&OP Consulting and Implementation
 
-## Teaching Experience
+## Teaching Experience (Teaching Assistant)
 * **Information Retrieval (CS60092)**, Autumn 2019, IIT Kharagpur
 
 ## Awards and Achievements

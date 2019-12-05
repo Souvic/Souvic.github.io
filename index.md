@@ -54,7 +54,7 @@ Associate, S&OP Consulting and Implementation
 TCS Research Fellowship Program for Computer Science Research
 * **Finalist at Qualcomm Innovation Fellowship _2018_**<br>
 One of the finalists of QInF-India 2018
-* **TNT-LatentView _2015_**<br>
+* **TNT-LatentView Winner _2015_**<br>
 One of the winners of "The Number Thing", a Data Science Competition by LatentView
 * **Academic Distinction _2014_**<br>
 Got Academic Distinction from The Director of IIT Jodhpur

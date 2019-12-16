@@ -47,6 +47,7 @@ _(Under Prof. Niloy Ganguly)_<br>
 Associate, S&OP Consulting and Implementation
 
 ## Teaching Experience (Teaching Assistant)
+* **Graduate Computing Lab**, Spring 2020, IIT Kharagpur
 * **Information Retrieval (CS60092)**, Autumn 2019, IIT Kharagpur
 
 ## Awards and Achievements

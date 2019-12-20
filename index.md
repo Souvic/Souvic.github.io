@@ -15,7 +15,7 @@ Accepted to appear in **AAAI-2020** (Oral Presentation), New York, USA<br>
 (A shorter version of the same was accepted in HCML workshop at NeurIPS 2019, Vancouver, Canada)
 * **Exposure Inequality in Search**<br>
 \*Work in progress <br>
-(A shorter version titled "**Can Location-Based Searches Create Exposure Bias ?**" was accepted in FATES on the Web 2019 workshop, The Web Conference 2019 (WWW-2019), San Francisco, USA)
+(A shorter version titled "**Can Location-Based Searches Create Exposure Bias?**" was accepted in FATES on the Web 2019 workshop, The Web Conference 2019 (WWW-2019), San Francisco, USA)
 * [**Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**](https://arxiv.org/abs/1811.08690)<br>
 _Abhijnan Chakraborty, **Gourab K Patro**, Niloy Ganguly, Krishna P. Gummadi, Patrick Loiseau_<br>
 In proceedings of **ACM FAT*-2019** (Oral Presentation), Atlanta, Georgia, USA<br>

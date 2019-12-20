@@ -8,7 +8,7 @@ Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1Lht
 * **Fair Newsfeed Curation**<br>
 \*Work in progress
 * **Two-Sided Fair Recommendation in Multistakeholder Platforms**<br>
-\*Under review
+\*Manuscript under review
 * [**Incremental Fairness in Two-Sided Market Platforms: On Smoothly Updating Recommendations**](https://arxiv.org/abs/1909.10005)<br>
 _**Gourab K Patro**, Abhijnan Chakraborty, Niloy Ganguly, Krishna P. Gummadi_ <br>
 Accepted to appear in **AAAI-2020** (Oral Presentation), New York, USA<br>

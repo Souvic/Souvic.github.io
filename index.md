@@ -1,5 +1,5 @@
 ## About Me
-I am a PhD scholar (TCS research fellow) in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/). I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research area is Information Retrieval and Data Mining, and my research interests fall in bias & fairness aspects of AIs.
+I am a PhD scholar (TCS research fellow) in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/). I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research area is Information Retrieval and Data Mining, and my research interests fall in bias & fairness aspects of AI.
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
 Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1LhtRhaM6zZGlXgNac/view?usp=sharing).

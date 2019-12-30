@@ -3,7 +3,7 @@ I am a PhD scholar (TCS research fellow) in the department of [Computer Science 
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
 Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1LhtRhaM6zZGlXgNac/view?usp=sharing). <br>
-My ORCID is https://orcid.org/0000-0002-2435-6859.
+My ORCID is (https://orcid.org/0000-0002-2435-6859).
 
 ## Research
 * **Fair Newsfeed Curation**<br>
@@ -13,10 +13,10 @@ My ORCID is https://orcid.org/0000-0002-2435-6859.
 * [**Incremental Fairness in Two-Sided Market Platforms: On Smoothly Updating Recommendations**](https://arxiv.org/abs/1909.10005)<br>
 _**Gourab K Patro**, Abhijnan Chakraborty, Niloy Ganguly, Krishna P. Gummadi_ <br>
 Accepted to appear in **AAAI-2020** (Oral Presentation), New York, USA<br>
-(A shorter version of the same was accepted in HCML workshop at NeurIPS 2019, Vancouver, Canada)
+(A shorter version of the same was presented in HCML workshop at NeurIPS 2019, Vancouver, Canada)
 * **Exposure Inequality in Search**<br>
 \*Work in progress <br>
-(A shorter version titled "**Can Location-Based Searches Create Exposure Bias?**" was accepted in FATES on the Web 2019 workshop, The Web Conference 2019 (WWW-2019), San Francisco, USA)
+(A shorter version titled "**Can Location-Based Searches Create Exposure Bias?**" was presented in FATES workshop, The Web Conference 2019 (WWW-2019), San Francisco, USA)
 * [**Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**](https://arxiv.org/abs/1811.08690)<br>
 _Abhijnan Chakraborty, **Gourab K Patro**, Niloy Ganguly, Krishna P. Gummadi, Patrick Loiseau_<br>
 In proceedings of **ACM FAT*-2019** (Oral Presentation), Atlanta, Georgia, USA<br>

@@ -13,7 +13,7 @@ My ORCID is (https://orcid.org/0000-0002-2435-6859).
 * [**Incremental Fairness in Two-Sided Market Platforms: On Smoothly Updating Recommendations**](https://arxiv.org/abs/1909.10005)<br>
 _**Gourab K Patro**, Abhijnan Chakraborty, Niloy Ganguly, Krishna P. Gummadi_ <br>
 Accepted to appear in **AAAI-2020** (Oral Presentation), New York, USA<br>
-(A shorter version of the same was presented at HCML workshop at NeurIPS 2019, Vancouver, Canada)
+(A shorter version was presented at HCML workshop at NeurIPS 2019, Vancouver, Canada)
 * **Exposure Inequality in Search**<br>
 \*Work in progress <br>
 (A shorter version titled "**Can Location-Based Searches Create Exposure Bias?**" was presented at FATES workshop, The Web Conference 2019 (WWW-2019), San Francisco, USA)

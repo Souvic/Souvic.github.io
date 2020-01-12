@@ -8,8 +8,9 @@ My ORCID is (https://orcid.org/0000-0002-2435-6859).
 ## Research
 * **Fair Newsfeed Curation**<br>
 \*Work in progress
-* **Two-Sided Fair Recommendation in Multistakeholder Platforms**<br>
-\*Manuscript under review
+* **_FairRec_: Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms**<br>
+_**Gourab K Patro***, Arpita Biswas*, Niloy Ganguly, Krishna P. Gummadi, Abhijnan Chakraborty_ <br>
+Accepted to appear in **WWW-2020** (Oral Presentation), Taipei, Taiwan
 * [**Incremental Fairness in Two-Sided Market Platforms: On Smoothly Updating Recommendations**](https://arxiv.org/abs/1909.10005)<br>
 _**Gourab K Patro**, Abhijnan Chakraborty, Niloy Ganguly, Krishna P. Gummadi_ <br>
 Accepted to appear in **AAAI-2020** (Oral Presentation), New York, USA<br>

@@ -3,7 +3,7 @@ I am a PhD scholar (TCS research fellow) in the department of [Computer Science 
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
 Please find me CV [**here**](https://drive.google.com/file/d/1QN9Gq_KkRgum0f1LhtRhaM6zZGlXgNac/view?usp=sharing). <br>
-My ORCID is (https://orcid.org/0000-0002-2435-6859).
+My ORCID is [0000-0002-2435-6859](https://orcid.org/0000-0002-2435-6859).
 
 ## Research
 * **Fair Newsfeed Curation**<br>

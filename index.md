@@ -10,10 +10,10 @@ My ORCID is [0000-0002-2435-6859](https://orcid.org/0000-0002-2435-6859).
 \*Work in progress
 * **_FairRec:_ Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms**<br>
 _**Gourab K Patro***, Arpita Biswas*, Niloy Ganguly, Krishna P. Gummadi, Abhijnan Chakraborty_ <br>
-Accepted to appear in **WWW-2020** (Oral Presentation), Taipei, Taiwan
+Accepted to appear in proceedings of **WWW-2020** (Oral Presentation), Taipei, Taiwan
 * [**Incremental Fairness in Two-Sided Market Platforms: On Smoothly Updating Recommendations**](https://arxiv.org/abs/1909.10005)<br>
 _**Gourab K Patro**, Abhijnan Chakraborty, Niloy Ganguly, Krishna P. Gummadi_ <br>
-Accepted to appear in **AAAI-2020** (Oral Presentation), New York, USA<br>
+Accepted to appear in proceedings of **AAAI-2020** (Oral Presentation), New York, USA<br>
 (A shorter version was presented at HCML workshop in NeurIPS 2019, Vancouver, Canada)
 * **Exposure Inequality in Search**<br>
 \*Work in progress <br>

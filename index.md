@@ -11,14 +11,14 @@ My ORCID is [0000-0002-2435-6859](https://orcid.org/0000-0002-2435-6859).
 * "**_FairRec:_ Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms**"<br>
 _**Gourab K Patro***, Arpita Biswas*, Niloy Ganguly, Krishna P. Gummadi, Abhijnan Chakraborty_ <br>
 Accepted to appear in proceedings of **WWW-2020** (Oral Presentation), Taipei, Taiwan
-* [**Incremental Fairness in Two-Sided Market Platforms: On Smoothly Updating Recommendations**](https://arxiv.org/abs/1909.10005)<br>
+* "[**Incremental Fairness in Two-Sided Market Platforms: On Smoothly Updating Recommendations**](https://arxiv.org/abs/1909.10005)"<br>
 _**Gourab K Patro**, Abhijnan Chakraborty, Niloy Ganguly, Krishna P. Gummadi_ <br>
 Accepted to appear in proceedings of **AAAI-2020** (Oral Presentation), New York, USA<br>
 (A shorter version was presented at HCML workshop in NeurIPS 2019, Vancouver, Canada)
 * **Group and Individual Exposure Disparity in Search**<br>
 \*Work in progress <br>
 (A shorter version titled "**Can Location-Based Searches Create Exposure Bias?**" was presented at FATES workshop, The Web Conference 2019 (WWW-2019), San Francisco, USA)
-* [**Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**](https://arxiv.org/abs/1811.08690)<br>
+* "[**Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**](https://arxiv.org/abs/1811.08690)"<br>
 _Abhijnan Chakraborty, **Gourab K Patro**, Niloy Ganguly, Krishna P. Gummadi, Patrick Loiseau_<br>
 In proceedings of **ACM FAT*-2019** (Oral Presentation), Atlanta, Georgia, USA<br>
 ([DOI](https://doi.org/10.1145/3287560.3287570))

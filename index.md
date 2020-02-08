@@ -70,6 +70,7 @@ Got Academic Distinction from The Director of IIT Jodhpur
 Secured 6th Rank in the State (Odisha) 12th Board Examination
 
 ## My Presentation Slides
+* [7th Feb 2020](https://docs.google.com/presentation/d/1VP_Jn14k77Y4lWTmK_k2z5HaGSEGEN2BdH1v9cnUdpk/edit?usp=drivesdk), Two-Sided Fairness in Recommendation, Headquarters, Goldman Sachs, Financial District, New York, USA
 * [18th July 2019](https://docs.google.com/presentation/d/132OudCPjfCwqqvSygPO423EUvLwQwye0eDbqE6HS5MA/edit?usp=sharing), Information Retrieval Class, IIT Kharagpur
 * [4th July 2019](https://docs.google.com/presentation/d/1OnhRAaJZbDBqv1J3G3az4hr_gIA1mUlwz5URMeczMws/edit?usp=sharing), CNeRG Reading Group<br>
 "Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search" by Geyik et al. in KDD 2019

@@ -1,9 +1,9 @@
 ## About Me
-I am a PhD scholar (TCS research fellow) in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/). I work under the supervision of [Prof. Niloy Ganguly](http://www.facweb.iitkgp.ernet.in/~niloy/). My research area is Information Retrieval and Data Mining, and my research interests fall in bias & fairness aspects of AI.
+I am a PhD scholar (TCS research fellow) in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/). I am jointly supervised by [Prof. Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) & [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/). My research area is Applied Deep Learning and my research interests fall in Music, Healthcare, Media Bias and Citation Networks.
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
 Please find me CV [here](https://drive.google.com/file/d/1-KObvU8mr3V0sZGD1rAVmNYWfPZBA9u4/view?usp=sharing). <br>
-My ORCID is [0000-0002-2435-6859](https://orcid.org/0000-0002-2435-6859).
+My ORCID is [0000-0002-2435-6859](https://orcid.org/0000-0002-9413-0070).
 
 ## Research
 * **Group and Individual Fairness in Newsfeed Curation**<br>
@@ -30,36 +30,36 @@ PhD Scholar (TCS Research Fellow), Department of Computer Science and Engineerin
 * **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _2018-19_**<br>
 Graduate (PhD) Student, Department of Computer Science and Engineering<br>
 
-* **Indian Institute of Technology Jodhpur ([IITJ](http://iitj.ac.in/)) _2012-2016_**<br> 
-Bachelor of Technology in System Science - Computer Science Minor Option<br>
-_GPI 8.58/10, **2nd Topper in the department**_
+* **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _2012-2016_**<br> 
+Bachelor of Technology in Electronics & Electrical Communication <br>
 
-* **Higher Secondary Board _2011_**<br>
-Council of Higher Secondary Education, Odisha<br>
-_Score 91.16 %, **6th Topper in the State of Odisha**_
+* **Higher Secondary Board _2012_**<br>
+Council of Higher Secondary Education, West Bengal<br>
+_Score 90.40 %, **6th Topper in the State of Odisha**_
 
-* **Secondary Board _2009_**<br>
-Board of Secondary Education, Odisha<br>
-_Score 91.5 %_
+* **Secondary Board _2010_**<br>
+Board of Secondary Education, West Bengal<br>
+_Score 90.63 %_
 
 ## Experience
-* **Max Planck Institute for Software Systems (MPI-SWS), Saarbrucken, Germany _Mar'19-May'19_**<br>
-Visiting Scholar
-_(Under Prof. Krishna Gummadi)_<br>
-* **IIT Kharagpur _Oct'17-Dec'17_**<br>
-Junior Research Fellow, Computer Science and Engineering
+* **IIT Kharagpur _Jan'19-now_**<br>
+PhD Research Scholar, Dept. of Computer Science and Engineering
 _(Under Prof. Niloy Ganguly)_<br>
-* **Steelwedge Software Inc _Jul'16-Aug'17_**<br>
-**_(Now a part of E2open LLC,Insight Venture Partners)_**<br>
-Associate, S&OP Consulting and Implementation
+* **IIT Kharagpur _July'18-Dec'18_**<br>
+Project Scientist, Dept. of Computer Science and Engineering
+_(Under Prof. Niloy Ganguly)_<br>
+* **Altisource Labs _Jan'17-July'18_**<br>
+Lead, Data Science
+* **Altisource Labs _June'16-Jan'17_**<br>
+Analyst, Data Science
 
 ## Teaching Experience (Teaching Assistant)
-* **Graduate Computing Lab (CS69004)**, Spring 2020, IIT Kharagpur
+* **NLP (CS69004)**, Spring 2020, IIT Kharagpur
 * **Information Retrieval (CS60092)**, Autumn 2019, IIT Kharagpur
 
 ## Awards and Achievements
 * **TCS Research Fellowship _2019_**<br>
-Tata Consultancy Services (TCS) has awarded fellowship for research on "Ethics in AI"
+Tata Consultancy Services (TCS) has awarded fellowship for research on "Citation Networks"
 * **Finalist at Qualcomm Innovation Fellowship _2018_**<br>
 One of the finalists of QInF-India 2018
 * **TNT-LatentView Winner _2015_**<br>
@@ -71,7 +71,7 @@ Secured 6th Rank in the State (Odisha) 12th Board Examination
 
 ## My Presentation Slides
 * [11th Feb 2020](https://drive.google.com/file/d/1FhBjqo_Egvshi7wMdEelJd5A4buaLI1R/view?usp=sharing), **Incremental Fairness in Two-Sided Market Platforms**, Thirty-Fourth AAAI Conference on AI, [AAAI-2020](https://aaai.org/Conferences/AAAI-20/), Hilton Midtown, New York, USA
-* [7th Feb 2020](https://docs.google.com/presentation/d/1VP_Jn14k77Y4lWTmK_k2z5HaGSEGEN2BdH1v9cnUdpk/edit?usp=drivesdk), **Two-Sided Fairness in Recommendation**, Headquarters, Goldman Sachs, Financial District, New York, USA
+<!---* [7th Feb 2020](https://docs.google.com/presentation/d/1VP_Jn14k77Y4lWTmK_k2z5HaGSEGEN2BdH1v9cnUdpk/edit?usp=drivesdk), **Two-Sided Fairness in Recommendation**, Headquarters, Goldman Sachs, Financial District, New York, USA
 * [18th July 2019](https://docs.google.com/presentation/d/132OudCPjfCwqqvSygPO423EUvLwQwye0eDbqE6HS5MA/edit?usp=sharing), Introduction to IR and Basic IR Tools, Information Retrieval Class, IIT Kharagpur
 * [4th July 2019](https://docs.google.com/presentation/d/1OnhRAaJZbDBqv1J3G3az4hr_gIA1mUlwz5URMeczMws/edit?usp=sharing), CNeRG Reading Group<br>
 "Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search" by Geyik et al. in KDD 2019
@@ -87,10 +87,10 @@ Secured 6th Rank in the State (Odisha) 12th Board Examination
 ## Certifications
 * **KPMG _2015_**<br>
 Green Belt Six SIgma _(License:CH042015125)_
-
+--->
 ## Significant Courseworks 
 Scalable Data Mining, Speech and Natural Language Processing, Information Retrieval, Deep Learning, Intelligent Systems, Complex Networks, Large Scale Numerical Simulations, Performance Modeling in Computer Networks, Pattern Recognition and Machine Learning, Socio-Economic Networks and Business Dynamics, Financial Engineering, OR Optimization, Game Theory, Mathematical Macro-Economics, Embedded Systems, Dynamical Systems, Control Systems, Computer Organisation, Computer Networks, Compiler Design and Analysis, Database Systems, Algorithm Design and Analysis, Data Structure and Algorithms
 
 ## Contact 
-_Email:_ patrogourab@gmail.com<br>
-_Ph:_ +91 8386837425
+_Email:_ chakra.souvic@gmail.com<br>
+_Ph:_ +91 9591058978

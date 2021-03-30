@@ -27,7 +27,7 @@ Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020( **ACM
 PhD Scholar (TCS Research Fellow), Department of Computer Science and Engineering<br>
 
 * **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _2018-19_**<br>
-Graduate (PhD) Student, Department of Computer Science and Engineering<br>
+Project Scientist, Department of Computer Science and Engineering<br>
 
 * **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _2012-2016_**<br> 
 Bachelor of Technology in Electronics & Electrical Communication <br>

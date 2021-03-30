@@ -1,27 +1,41 @@
 ## About Me
-I am a PhD scholar (TCS research fellow) in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/). I am jointly supervised by [Prof. Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) & [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/). My research area is Applied Deep Learning and my research interests fall in Music, Healthcare, Media Bias and Citation Networks.
+I am a PhD scholar (TCS research fellow) in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/). I am jointly supervised by [Prof. Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) & [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/). My research area is Applied Deep Learning and my research interests fall in Cross-Domain Fewshot Learning, Sentiment Analysis and Media Bias.
 
 I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
 Please find me CV [here](https://drive.google.com/file/d/1-KObvU8mr3V0sZGD1rAVmNYWfPZBA9u4/view?usp=sharing). <br>
 My ORCID is [0000-0002-2435-6859](https://orcid.org/0000-0002-9413-0070).
 
+Aspect-based Sentiment Analysis of Scientific Reviews
+
+Publication date
+2020/8
+Conference
+JCDL '20: 
+
+
+
+
+
+
+
+
+
 ## Research
-* **Group and Individual Fairness in Newsfeed Curation**<br>
-\*Work in progress
-* "**_FairRec:_ Two-Sided Fairness for Personalized Recommendations in Two-Sided Platforms**"<br>
-_**Gourab K Patro***, Arpita Biswas*, Niloy Ganguly, Krishna P. Gummadi, Abhijnan Chakraborty_ <br>
-Accepted to appear in proceedings of **WWW-2020** (Oral Presentation), Taipei, Taiwan
-* "[**Incremental Fairness in Two-Sided Market Platforms: On Smoothly Updating Recommendations**](https://arxiv.org/abs/1909.10005)"<br>
-_**Gourab K Patro**, Abhijnan Chakraborty, Niloy Ganguly, Krishna P. Gummadi_ <br>
-Accepted to appear in proceedings of **AAAI-2020** (Oral Presentation), New York, USA<br>
-(A shorter version was presented at HCML workshop in NeurIPS 2019, Vancouver, Canada)
-* **Group and Individual Exposure Disparity in Search**<br>
-\*Work in progress <br>
-(A shorter version titled "**Can Location-Based Searches Create Exposure Bias?**" was presented at FATES workshop, The Web Conference 2019 (WWW-2019), San Francisco, USA)
-* "[**Equality of Voice: Towards Fair Representation in Crowdsourced Top-K Recommendations**](https://arxiv.org/abs/1811.08690)"<br>
-_Abhijnan Chakraborty, **Gourab K Patro**, Niloy Ganguly, Krishna P. Gummadi, Patrick Loiseau_<br>
-In proceedings of **ACM FAT*-2019** (Oral Presentation), Atlanta, Georgia, USA<br>
-([DOI](https://doi.org/10.1145/3287560.3287570))
+* **Fewshot Learning from text for Multimodal Sentiment Analysis**<br>
+\*Work in Progress
+* **(Im)balance in the Representation of News: An Extensive Study on a Decade Long Dataset from India**<br>
+\*Reviews Awaited
+* **A Leopard Can Not Change Its Spots: Few-shot Learning for Political Ideology Detection**<br>
+\*Reviews Awaited
+
+* "[**Mining the online infosphere: A survey**](https://arxiv.org/abs/2101.00454)"<br>
+Souvic Chakraborty, Sayantan Adak, Paramtia Das, Mithun Das, Abhisek Dash, Rima Hazra, Binny Mathew, Punyajoy Saha, Soumya Sarkar, Animesh Mukherjee_<br>
+WIREs Data Mining and Knowledge Discovery <br>
+
+* "[**Aspect-based Sentiment Analysis of Scientific Reviews**](https://dl.acm.org/doi/abs/10.1145/3383583.3398541)"<br>
+**Souvic Chakraborty**, Pawan Goyal, Animesh Mukherjee_<br>
+Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020( **ACM JCDL*-2020**) (Oral Presentation), Wuhan, China <br>
+([DOI](https://doi.org/10.1145/3383583.3398541))
 
 ## Education
 * **Indian Institute of Technology Kharagpur ([IITKGP](http://iitkgp.ac.in/)) _From 2019_**<br>
@@ -35,7 +49,7 @@ Bachelor of Technology in Electronics & Electrical Communication <br>
 
 * **Higher Secondary Board _2012_**<br>
 Council of Higher Secondary Education, West Bengal<br>
-_Score 90.40 %, **6th Topper in the State of Odisha**_
+_Score 90.40 %, **2nd Topper in the State of West Bengal in WBJEE**_
 
 * **Secondary Board _2010_**<br>
 Board of Secondary Education, West Bengal<br>
@@ -44,18 +58,19 @@ _Score 90.63 %_
 ## Experience
 * **IIT Kharagpur _Jan'19-now_**<br>
 PhD Research Scholar, Dept. of Computer Science and Engineering
-_(Under Prof. Niloy Ganguly)_<br>
+_(Under Prof. Animesh Mukherjee)_<br>
 * **IIT Kharagpur _July'18-Dec'18_**<br>
 Project Scientist, Dept. of Computer Science and Engineering
-_(Under Prof. Niloy Ganguly)_<br>
+_(Under Prof. Animesh Mukherjee)_<br>
 * **Altisource Labs _Jan'17-July'18_**<br>
 Lead, Data Science
 * **Altisource Labs _June'16-Jan'17_**<br>
 Analyst, Data Science
 
 ## Teaching Experience (Teaching Assistant)
-* **NLP (CS69004)**, Spring 2020, IIT Kharagpur
-* **Information Retrieval (CS60092)**, Autumn 2019, IIT Kharagpur
+* **AI and Ethics (CS60016)**, Spring 2021, IIT Kharagpur
+* **Programming and Data Structures (CS10003)**, Autumn 2020, IIT Kharagpur
+* **Algorithms I (CS21003)**, Autumn 2019, IIT Kharagpur
 
 ## Awards and Achievements
 * **TCS Research Fellowship _2019_**<br>
@@ -84,12 +99,24 @@ Secured 6th Rank in the State (Odisha) 12th Board Examination
 * [13th April 2018](https://docs.google.com/presentation/d/1OV9nfPFF83ObMEjGR7Mu1fN11r_CaLdO0VvtBsnYMRE/edit?usp=sharing), Intelligent Systems Class Presentation<br>
 "Recommendation Independence" by Kamishima et al. in FAT* 2018
 
-## Certifications
-* **KPMG _2015_**<br>
+## PC Member
+* **EMNLP 2021(Invited_)**
+* **NAACL 2021**
+* **Journal, Springer Nature**
+
+## Volunteer
+* **AAAI,2021**
+
+## Awards
+* **Facebook Ethics in AI _2019_**(https://research.fb.com/programs/research-awards/proposals/ethics-in-ai-research-awards-india/)<br>
 Green Belt Six SIgma _(License:CH042015125)_
+## News Coverage
+https://www.hindustantimes.com/tech/facebook-picks-6-projects-from-india-for-ethics-in-ai-research-awards/story-nCHN7DdIJiNrLK4r2IDp2N.html
+https://www.ndtv.com/education/iit-kharagpur-faculty-wins-facebook-award-for-research-in-targeted-media-bias-2108792
+https://www.financialexpress.com/education-2/facebook-award-for-iit-kharagpur-faculty-for-research-in-targeted-media-bias/1720503/?fbclid=IwAR2kNPdPdfprwVvnR6rx5iV9PMDdT3jNJuDBJeKV-LrDBbJgLNWQ2mWdnRQ
+For a complete list refer here(https://docs.google.com/document/d/1QjY_zEAEgCRdpw2OKkqNe4PaG8fLHfAqpbdnWDlIHzU/edit?usp=sharing)
 --->
-## Significant Courseworks 
-Scalable Data Mining, Speech and Natural Language Processing, Information Retrieval, Deep Learning, Intelligent Systems, Complex Networks, Large Scale Numerical Simulations, Performance Modeling in Computer Networks, Pattern Recognition and Machine Learning, Socio-Economic Networks and Business Dynamics, Financial Engineering, OR Optimization, Game Theory, Mathematical Macro-Economics, Embedded Systems, Dynamical Systems, Control Systems, Computer Organisation, Computer Networks, Compiler Design and Analysis, Database Systems, Algorithm Design and Analysis, Data Structure and Algorithms
+Reinforcement Learning, Deep Learning Foundation and Applications, Speech and Natural Language Processing, Information Retrieval, Deep Learning, Social Computing, Pattern Recognition and Machine Learning,, Algorithm Design and Analysis, Data Structure and Algorithms
 
 ## Contact 
 _Email:_ chakra.souvic@gmail.com<br>

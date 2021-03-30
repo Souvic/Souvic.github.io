@@ -77,11 +77,11 @@ Secured 2nd Rank in the State (West Bengal) in WBJEE 2012
 
 
 ## News Coverage
-* https://www.hindustantimes.com/tech/facebook-picks-6-projects-from-india-for-ethics-in-ai-research-awards/story-nCHN7DdIJiNrLK4r2IDp2N.html
-* https://www.ndtv.com/education/iit-kharagpur-faculty-wins-facebook-award-for-research-in-targeted-media-bias-2108792
-* https://www.financialexpress.com/education-2/facebook-award-for-iit-kharagpur-faculty-for-research-in-targeted-media-bias/1720503/
+* [Hindustan Times](https://www.hindustantimes.com/tech/facebook-picks-6-projects-from-india-for-ethics-in-ai-research-awards/story-nCHN7DdIJiNrLK4r2IDp2N.html)
+* [NDTV](https://www.ndtv.com/education/iit-kharagpur-faculty-wins-facebook-award-for-research-in-targeted-media-bias-2108792)
+* [Financial Express](https://www.financialexpress.com/education-2/facebook-award-for-iit-kharagpur-faculty-for-research-in-targeted-media-bias/1720503/)
 * For a complete list refer [here](https://docs.google.com/document/d/1QjY_zEAEgCRdpw2OKkqNe4PaG8fLHfAqpbdnWDlIHzU/edit?usp=sharing)
---->
+## Relevant CourseWork
 Reinforcement Learning, Deep Learning Foundation and Applications, Speech and Natural Language Processing, Information Retrieval, Deep Learning, Social Computing, Pattern Recognition and Machine Learning,, Algorithm Design and Analysis, Data Structure and Algorithms
 
 ## Contact 

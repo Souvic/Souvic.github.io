@@ -66,12 +66,9 @@ Was reviewed as "excellent" and was **promoted twice** in the company in less th
 * **State Entrance Exam Topper _2012_**<br>
 Secured 2nd Rank in the State (West Bengal) in WBJEE 2012
 
-## My Presentation Slides
-* [11th Feb 2020](https://drive.google.com/file/d/1FhBjqo_Egvshi7wMdEelJd5A4buaLI1R/view?usp=sharing), **Incremental Fairness in Two-Sided Market Platforms**, Thirty-Fourth AAAI Conference on AI, [AAAI-2020](https://aaai.org/Conferences/AAAI-20/), Hilton Midtown, New York, USA
-
 
 ## PC Member
-* **EMNLP 2021(Invited_)**
+* **EMNLP 2021(_Invited_)**
 * **NAACL 2021**
 * **Journal, Springer Nature**
 
@@ -80,10 +77,10 @@ Secured 2nd Rank in the State (West Bengal) in WBJEE 2012
 
 
 ## News Coverage
-https://www.hindustantimes.com/tech/facebook-picks-6-projects-from-india-for-ethics-in-ai-research-awards/story-nCHN7DdIJiNrLK4r2IDp2N.html
-https://www.ndtv.com/education/iit-kharagpur-faculty-wins-facebook-award-for-research-in-targeted-media-bias-2108792
-https://www.financialexpress.com/education-2/facebook-award-for-iit-kharagpur-faculty-for-research-in-targeted-media-bias/1720503/?fbclid=IwAR2kNPdPdfprwVvnR6rx5iV9PMDdT3jNJuDBJeKV-LrDBbJgLNWQ2mWdnRQ
-For a complete list refer here(https://docs.google.com/document/d/1QjY_zEAEgCRdpw2OKkqNe4PaG8fLHfAqpbdnWDlIHzU/edit?usp=sharing)
+* https://www.hindustantimes.com/tech/facebook-picks-6-projects-from-india-for-ethics-in-ai-research-awards/story-nCHN7DdIJiNrLK4r2IDp2N.html
+* https://www.ndtv.com/education/iit-kharagpur-faculty-wins-facebook-award-for-research-in-targeted-media-bias-2108792
+* https://www.financialexpress.com/education-2/facebook-award-for-iit-kharagpur-faculty-for-research-in-targeted-media-bias/1720503/
+* For a complete list refer [here](https://docs.google.com/document/d/1QjY_zEAEgCRdpw2OKkqNe4PaG8fLHfAqpbdnWDlIHzU/edit?usp=sharing)
 --->
 Reinforcement Learning, Deep Learning Foundation and Applications, Speech and Natural Language Processing, Information Retrieval, Deep Learning, Social Computing, Pattern Recognition and Machine Learning,, Algorithm Design and Analysis, Data Structure and Algorithms
 

@@ -68,9 +68,15 @@ Secured 2nd Rank in the State (West Bengal) in WBJEE 2012
 
 
 ## PC Member
-* **EMNLP 2021(_Invited_)**
+* **EMNLP 2021)**
 * **NAACL 2021**
 * **Journal, Springer Nature**
+
+## Sub-reviewer
+* EACL 2021
+* EMNLP 2020
+* ACL 2020
+* WWW 2020
 
 ## Volunteer
 * **AAAI,2021**

@@ -19,7 +19,7 @@ WIREs Data Mining and Knowledge Discovery <br>
 
 * "[**Aspect-based Sentiment Analysis of Scientific Reviews**](https://dl.acm.org/doi/abs/10.1145/3383583.3398541)"<br>
 **Souvic Chakraborty**, Pawan Goyal, Animesh Mukherjee_<br>
-Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020( **ACM JCDL*-2020**) (Oral Presentation), Wuhan, China <br>
+Proceedings of the ACM/IEEE Joint Conference on Digital Libraries in 2020(**ACM JCDL-2020**) (Oral Presentation), Wuhan, China <br>
 ([DOI](https://doi.org/10.1145/3383583.3398541))
 
 ## Education

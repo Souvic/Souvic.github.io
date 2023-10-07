@@ -1,9 +1,42 @@
 ## About Me
-I am a PhD scholar (TCS research fellow) in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/). I am jointly supervised by [Prof. Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) & [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/). My research area is Applied Deep Learning and my research interests fall in Cross-Domain Fewshot Learning, Sentiment Analysis and Media Bias.
+I am the Founder and CEO of [VideoDubber.ai](https://videodubber.ai), Ph.D., former TCS research fellow in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/). I was jointly supervised by [Prof. Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) & [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/). My research area was Applied Deep Learning and my research interests fall in Cross-Domain Fewshot Learning, Sentiment Analysis and Media Bias.
 
-I am currently a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
-Please find me CV [here](https://drive.google.com/file/d/1-KObvU8mr3V0sZGD1rAVmNYWfPZBA9u4/view?usp=sharing). <br>
-My ORCID is [0000-0002-2435-6859](https://orcid.org/0000-0002-9413-0070).
+I was a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
+
+## About [VideoDubber.ai](https://videodubber.ai)
+
+### VideoDubber : AI Video Translation, Text-to-Speech - Try Free
+
+Free AI-powered video translation, dubbing, voice cloning and text-to-speech services. Scale with us to 30+ languages to 10x your audience size effortlessly!
+
+We are offering premium video translation 3x [cheaper](https://videodubber.ai/pricing/) than the market.
+
+Translate your video to languages of your choice in three easy steps:
+
+- Go to [VideoDubber.ai](https://videodubber.ai) and click on "Get Started"
+- Log in and upload your video (or submit youtube link)
+- Select the languages you need to translate your video to.
+- Select the specific voices you want the translated videos to have or choose if you want to clone the original voice.
+- Wait for a few seconds and voila! You will get all your videos translated. You can now download the MP4 files or even the translated subtitles.
+
+### Why choose [VideoDubber.ai](https://videodubber.ai)?
+
+- We are about 3x [cheaper](https://videodubber.ai/pricing/) than anyone in the market right now and we will remain the cheapest option for premium video translation with AI.
+- Our outputs are far more superior than other competitors. We will soon publish a blog post comparing us with others. Take our word for it till then. Thank us later.
+- We offer free service for short videos. No watermark is added. Test our quality just by creating an account.
+- We offer state of the art voice cloning services for free backed by our own research (no third party API)
+- Our UI is super smooth and mobile-friendly.
+- Our customer support is super active at [contact@videodubber.ai](mailto:contact@videodubber.ai)
+- Embed your subtitles, lipsync and edit subtitles in seconds with [VideoDubber.ai](https://videodubber.ai)
+- You can request us any new feature you need. We are super-accessible unlike other big companies focusing on profit. Our focus is 100% customer satisfaction.
+
+### [VideoDubber.ai](https://videodubber.ai) is supported by:
+<p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Google_for_Startups_logo.svg" alt="Google for StartUps" width="200"/>
+<img src="https://www.eban.org/wp-content/uploads/2020/06/aws.png" alt="AWS for StartUps" width="200"/>
+<img src="https://blogs.microsoft.com/wp-content/uploads/2018/02/Microsoft-for-Startups.jpg" alt="Microsoft for StartUps" width="200"/></p>
+
+
 
 ## Research
 * **Fewshot Learning from text for Multimodal Sentiment Analysis**<br>
@@ -91,7 +124,7 @@ Secured 2nd Rank in the State (West Bengal) in WBJEE 2012
 
 
 ## Relevant CourseWork
-Reinforcement Learning, Deep Learning Foundation and Applications, Speech and Natural Language Processing, Deep Learning, Social Computing, Pattern Recognition and Machine Learning,, Algorithm Design and Analysis, Data Structure and Algorithms
+Reinforcement Learning, Deep Learning Foundation and Applications, Speech and Natural Language Processing, Deep Learning, Social Computing, Pattern Recognition and Machine Learning, Algorithm Design and Analysis, Data Structure and Algorithms
 
 ## Contact 
 _Email:_ chakra.souvic@gmail.com<br>

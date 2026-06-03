@@ -1,7 +1,36 @@
 ## About Me
-I am the Founder of [SEOBlogger.ai](https://seoblogger.ai), [Discorder.tools](https://discorder.tools), [VideoDubber.ai](https://videodubber.ai), and [AutoReview](https://videodubber.ai/autoreview/). I hold a Ph.D. and was a TCS research fellow in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/), jointly supervised by [Prof. Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) and [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/). My research focused on Applied Deep Learning—Cross-Domain Few-Shot Learning, Sentiment Analysis, and Media Bias.
+I am the Founder of [VideoDubber.ai](https://videodubber.ai), [SEOBlogger.ai](https://seoblogger.ai), and [Discorder.tools](https://discorder.tools). I hold a Ph.D. and was a TCS research fellow in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/), jointly supervised by [Prof. Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) and [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/). My research focused on Applied Deep Learning—Cross-Domain Few-Shot Learning, Sentiment Analysis, and Media Bias.
 
 I was part of the [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
+
+## [VideoDubber.ai](https://videodubber.ai)
+
+**Founder** — AI video translation, dubbing, voice cloning, and subtitle tools for creators and businesses worldwide.
+
+### Why choose [VideoDubber.ai](https://videodubber.ai)?
+
+- We are about 3x [cheaper](https://videodubber.ai/pricing/) than anyone in the market right now and we will remain the cheapest option for premium video translation with AI.
+- Our outputs are far more superior than other competitors. We will soon publish a blog post comparing us with others. Take our word for it till then. Thank us later.
+- We offer free service for short videos. No watermark is added. Test our quality just by creating an account.
+- We offer state of the art voice cloning services for free backed by our own research (no third party API)
+- Our UI is super smooth and mobile-friendly.
+- Our customer support is super active at [contact@videodubber.ai](mailto:contact@videodubber.ai)
+- Embed your subtitles, lipsync and edit subtitles in seconds with [VideoDubber.ai](https://videodubber.ai)
+- You can request us any new feature you need. We are super-accessible unlike other big companies focusing on profit. Our focus is 100% customer satisfaction.
+
+### [VideoDubber.ai](https://videodubber.ai) is supported by:
+
+<div class="supported-by">
+  <a href="https://startup.google.com/" target="_blank" rel="noreferrer nofollow">
+    <img src="assets/partners/google-for-startups.svg" alt="Google for StartUps" width="200" height="50">
+  </a>
+  <a href="https://www.microsoft.com/startups" target="_blank" rel="noreferrer nofollow">
+    <img src="assets/partners/logo_microsoft_for_startups.webp" alt="Microsoft for StartUps" width="100" height="30">
+  </a>
+  <a href="https://aws.amazon.com/startups" target="_blank" rel="noreferrer nofollow">
+    <img src="assets/partners/aws.webp" alt="AWS for StartUps" width="160" height="40">
+  </a>
+</div>
 
 ## [SEOBlogger.ai](https://seoblogger.ai)
 
@@ -21,60 +50,13 @@ I was part of the [Complex Networks Research Group](http://www.cnergres.iitkgp.a
 
 | Tool | What it does |
 |------|----------------|
-| [Colored Text Generator](https://discorder.tools/discord-colored-text-generator/) | Create colored, styled Discord messages that stand out in chats and servers—copy and paste in one click. |
+| [ID Lookup](https://discorder.tools/discord-id-lookup/) | Find and verify Discord user and server IDs quickly for moderation, bots, and community management. |
+| [PFP Downloader](https://discorder.tools/discord-pfp-downloader/) | Download Discord profile pictures and banners in HD—view and save any user avatar or banner for free. |
 | [Font Generator](https://discorder.tools/discord-font-generator/) | Generate fancy, bold, italic, cursive, gothic, and zalgo Unicode text for messages, nicknames, and bios. |
-| [Bio Generator](https://discorder.tools/discord-bio-generator/) | AI-generated bio ideas for profiles and About Me—aesthetic, funny, gamer, or polished styles. |
+| [Colored Text Generator](https://discorder.tools/discord-colored-text-generator/) | Create colored, styled Discord messages that stand out in chats and servers—copy and paste in one click. |
 | [Timestamp Generator](https://discorder.tools/discord-timestamp-generator/) | Build Discord timestamp codes for any date/time (relative, short date, long date, and more). |
-| [Reply Generator](https://discorder.tools/reply-generator/) | Craft engaging server and DM replies with AI to save time and improve community interactions. |
 
 [Explore all tools →](https://discorder.tools)
-
-## About [AutoReview](https://videodubber.ai/autoreview/)
-
-### AutoReview: AI-Powered Paper Review in Minutes
-
-Revolutionize the way academics review their papers with AutoReview! Our cutting-edge AI technology delivers comprehensive paper reviews at a fraction of the time and cost.
-
-Supercharge your paper review process with these key features:
-
-- **Effortless Upload**: Head to [AutoReview](https://videodubber.ai/autoreview/) and click on "Start Review"
-- **Submit Your Paper**: Log in and upload your paper in PDF format
-- **Customizable Review Criteria**: Tailor the review based on your preferences and requirements
-- **AI-Generated Feedback**: Receive detailed feedback generated by our advanced AI algorithms
-- **Fast Turnaround**: Get your paper review within minutes, saving you valuable time
-- **Compliant with Academic Standards**: Our AI adheres to academic guidelines and ensures a fair and unbiased review
-
-### Why Choose AutoReview?
-
-- **Accuracy**: Our AI employs state-of-the-art natural language processing for precise and insightful reviews.
-- **Affordability**: Enjoy top-notch paper reviews at a fraction of the cost compared to traditional methods.
-- **User-Friendly**: The intuitive interface makes it easy for academics of all levels to navigate and use the platform.
-- **Confidentiality**: Your papers are secure, and our platform prioritizes confidentiality and data privacy.
-
-Ready to elevate your paper review experience? Visit [AutoReview](https://videodubber.ai/autoreview) and experience the future of academic peer review. Join now and enhance the quality of your research with AI-powered insights.
-
-[Get Started Now](https://videodubber.ai/autoreview/)
-
-*Disclaimer: AutoReview is committed to adhering to ethical AI practices and guidelines. All reviews generated are intended to supplement, not replace, traditional peer review processes.*
-
-### Why choose [VideoDubber.ai](https://videodubber.ai)?
-
-- We are about 3x [cheaper](https://videodubber.ai/pricing/) than anyone in the market right now and we will remain the cheapest option for premium video translation with AI.
-- Our outputs are far more superior than other competitors. We will soon publish a blog post comparing us with others. Take our word for it till then. Thank us later.
-- We offer free service for short videos. No watermark is added. Test our quality just by creating an account.
-- We offer state of the art voice cloning services for free backed by our own research (no third party API)
-- Our UI is super smooth and mobile-friendly.
-- Our customer support is super active at [contact@videodubber.ai](mailto:contact@videodubber.ai)
-- Embed your subtitles, lipsync and edit subtitles in seconds with [VideoDubber.ai](https://videodubber.ai)
-- You can request us any new feature you need. We are super-accessible unlike other big companies focusing on profit. Our focus is 100% customer satisfaction.
-
-### [VideoDubber.ai](https://videodubber.ai) is supported by:
-<p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Google_for_Startups_logo.svg" alt="Google for StartUps" width="200"/>
-<img src="https://www.eban.org/wp-content/uploads/2020/06/aws.png" alt="AWS for StartUps" width="200"/>
-<img src="https://blogs.microsoft.com/wp-content/uploads/2018/02/Microsoft-for-Startups.jpg" alt="Microsoft for StartUps" width="200"/></p>
-
-
 
 ## Research
 * **Fewshot Learning from text for Multimodal Sentiment Analysis**<br>

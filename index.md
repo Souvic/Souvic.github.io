@@ -1,7 +1,33 @@
 ## About Me
-I am the Founder and CEO of [VideoDubber.ai](https://videodubber.ai) and [AutoReview](https://videodubber.ai/autoreview/), Ph.D., former TCS research fellow in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/). I was jointly supervised by [Prof. Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) & [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/). My research area was Applied Deep Learning and my research interests fall in Cross-Domain Fewshot Learning, Sentiment Analysis and Media Bias.
+I am the Founder of [SEOBlogger.ai](https://seoblogger.ai), [Discorder.tools](https://discorder.tools), [VideoDubber.ai](https://videodubber.ai), and [AutoReview](https://videodubber.ai/autoreview/). I hold a Ph.D. and was a TCS research fellow in the department of [Computer Science and Engineering](http://cse.iitkgp.ac.in) at [IIT Kharagpur, India](http://www.iitkgp.ac.in/), jointly supervised by [Prof. Animesh Mukherjee](https://cse.iitkgp.ac.in/~animeshm/) and [Prof. Pawan Goyal](https://cse.iitkgp.ac.in/~pawang/). My research focused on Applied Deep Learning—Cross-Domain Few-Shot Learning, Sentiment Analysis, and Media Bias.
 
-I was a part of [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/). <br>
+I was part of the [Complex Networks Research Group](http://www.cnergres.iitkgp.ac.in/) at [IIT Kharagpur](http://www.iitkgp.ac.in/).
+
+## [SEOBlogger.ai](https://seoblogger.ai)
+
+**Founder** — AI-powered SEO content automation that helps businesses rank on Google and get recommended by ChatGPT on autopilot.
+
+- **Daily SEO articles**: Keyword research, generation, optimization, images, and localization in one platform—published automatically to WordPress, Webflow, Shopify, Notion, Wix, Framer, and more.
+- **Backlink Exchange**: Quality backlinks from a network of publishers to grow Domain Rating and organic traffic.
+- **Scale globally**: 150+ languages, multi-site packages, team collaboration, and AI rewrites—50k+ articles created on the platform.
+
+[Get started free →](https://seoblogger.ai)
+
+## [Discorder.tools](https://discorder.tools)
+
+**Founder** — Free Discord utilities and generators for creators, moderators, and communities.
+
+### Featured tools
+
+| Tool | What it does |
+|------|----------------|
+| [Colored Text Generator](https://discorder.tools/discord-colored-text-generator/) | Create colored, styled Discord messages that stand out in chats and servers—copy and paste in one click. |
+| [Font Generator](https://discorder.tools/discord-font-generator/) | Generate fancy, bold, italic, cursive, gothic, and zalgo Unicode text for messages, nicknames, and bios. |
+| [Bio Generator](https://discorder.tools/discord-bio-generator/) | AI-generated bio ideas for profiles and About Me—aesthetic, funny, gamer, or polished styles. |
+| [Timestamp Generator](https://discorder.tools/discord-timestamp-generator/) | Build Discord timestamp codes for any date/time (relative, short date, long date, and more). |
+| [Reply Generator](https://discorder.tools/reply-generator/) | Craft engaging server and DM replies with AI to save time and improve community interactions. |
+
+[Explore all tools →](https://discorder.tools)
 
 ## About [AutoReview](https://videodubber.ai/autoreview/)
 
